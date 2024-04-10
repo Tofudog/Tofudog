@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tofudog
-- 🎄 I’m interested in structures, logic, the world and beyond
-- 🌱 I’m currently learning machine learning and calculus
-- 📫 How to reach me: * leodefarias25@gmail.com; https://www.linkedin.com/in/leonardo-de-farias-857167222/ 
+- 🎄 I want to know how things work
+- 🌱 I'm a student at Emory University and an SDE intern at Amazon
+- 📫 How to reach me: * leodefarias25@gmail.com
