@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Tofudog
-- 🌱 I'm a student at Emory University and an SDE intern at Amazon
+- 🌱 I'm a student at Emory University
 - I love to build projects!
