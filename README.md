@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Leonardo de Farias
 - 🌱 I'm a CS student at Emory University
-- I love to build projects!
+- 🚀 I love to build projects!
